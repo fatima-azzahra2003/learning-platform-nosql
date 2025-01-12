@@ -125,11 +125,12 @@ Pour configurer Redis et MongoDB, suivez les étapes ci-dessous :
          ```
          ![demarrer](demarrer.jpg)
    Fonctionnalités de l'application
-   ![fonctionnalites](fonctionnalites.jpg)
+   ![fonctionnalites](fonctionnalites.png)
    
 
 5. Accéder à l'API :
    - URL de base : `http://localhost:3000`
+   ![acces au course](<acces au courses.png>)
 
 
 
